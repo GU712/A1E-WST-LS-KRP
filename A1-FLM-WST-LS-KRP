@@ -200,7 +200,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>WESTERN</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[B][COLOR white]O Ouro de Mackenna (1969)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=Q3XVYjhKU-U$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Ouro de Mackenna[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96a5a5b85fc19c720b9b6e229dada861b1b8b7f6$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - HD LEG[/B][/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5e0d3b37cc30b79fc3abaa2a4fe435efb9d482$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - FHD DUB[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-O.Ouro.de%20Mackenna.1969.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Ouro de Mackenna - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uChjCbOKpoREb3yZrG1p8L3GyC7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hrjCBBytcF9Fu0Bz4feGgPHiuAb.jpg</fanart>
+<info>O bandido Colorado, sequestra McKenna, pois acredita que ele é a única pessoa viva que conhece o tortuoso caminho para o vale do ouro</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]O Último Homem  - 2018 [/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=Q7kfkGZ2Gpo$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]O Ultimo Homem[/B][/COLOR]</link>				
