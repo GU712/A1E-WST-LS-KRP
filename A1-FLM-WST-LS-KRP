@@ -377,6 +377,17 @@ link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$$lsname=[C
 <genre>WESTERN</genre>
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR white][B]Sol Vermelho (1971)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MdtyruRMlns$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Sol Vermelho[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/5WST-FM/LS-Sol.Vermelho.1971.FHD.DUAL+LEG.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Sol Vermelho - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hDQyx0N8J5OJMJYpJLIX0SkKwT4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5SRiG8rVvxMRaB5tBIT6oC6ksxD.jpg</fanart>
+<info>Link, ágil no gatilho, une-se com Kuroda, um honrado guerreiro samurai em um jogo de vingança no sudoeste sem lei dos Estados Unidos em 1870.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "T"				
@@ -407,24 +418,7 @@ LETRA "Z"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 				
-<item>				
-<title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>				
-				
-<link>plugin://plugin.video.youtube/play/?video_id=<LINKDOTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]NomedoFilme[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNTREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - HD DUAL[/B][/COLOR]</link>				
-				
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNETREDUZIDO>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUAL[/B][/COLOR]</link>				
-				
-<link><LINKUNIVERSAL>$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]NomedoFilme - FHD DUB[/B][/COLOR]</link>				
-				
-<thumbnail><ICONEDOFILME></thumbnail>				
-<fanart><FUNDODOFILME></fanart>				
-<info>SINOPSEDOFILME></info>				
-<genre>WESTERN</genre>				
-</item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+							
 <item>				
 <title>[COLOR black].[/COLOR]</title>				
 <link>ignoreme</link>				
